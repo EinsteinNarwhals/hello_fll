@@ -1,1 +1,1 @@
-This a test to show how to commit a file.
+This is a test to show how to commit a file.
