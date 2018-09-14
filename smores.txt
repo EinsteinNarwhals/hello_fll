@@ -1,5 +1,13 @@
+#Assume all items for smores are on the table
 Step 1:  Get plate from table
 Step 2:  Open graham cracker box
-Step 3:  Take 4 crackers
-Step 4:  Open chocolate bar wrapper
-Step 5:  Take 2 pieces of chocolate
+Step 3:  Take 2 crackers
+Step 4:  Place 1 cracker on dish
+Step 5:  Place 1 cracker on table
+Step 6:  Open chocolate bar wrapper
+Step 7:  Take 1 piece of chocolate
+Step 8:  Place chocolate piece on cracker that is on the dish
+Step 7:  Take second cracker from table and place on top of chocolate that is on the cracker on the dish
+Step 8:  Open microwave door
+Step 9:  Place dish that has smore inside of microwave
+Step 10: Turn microwave on for 1 second
