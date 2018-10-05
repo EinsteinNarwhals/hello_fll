@@ -7,7 +7,7 @@ Step 5:  Place 1 cracker on table
 Step 6:  Open chocolate bar wrapper
 Step 7:  Take 1 piece of chocolate
 Step 8:  Place chocolate piece on cracker that is on the dish
-Step 7:  Take second cracker from table and place on top of chocolate that is on the cracker on the dish
-Step 8:  Open microwave door
-Step 9:  Place dish that has smore inside of microwave
-Step 10: Turn microwave on for 5 seconds
+Step 9:  Take second cracker from table and place on top of chocolate that is on the cracker on the dish
+Step 10:  Open microwave door
+Step 11:  Place dish that has smore inside of microwave
+Step 12: Turn microwave on for 5 seconds
